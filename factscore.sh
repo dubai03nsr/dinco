@@ -1,0 +1,2 @@
+python dinco_factscore.py
+python evaluate_factscore.py
